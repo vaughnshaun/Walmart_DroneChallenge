@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DroneChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Shaun Vaughn\\source\\repos\\DroneChallenge\\Sample2.txt\""
+    },
+    "DroneChallengeNoFIle": {
+      "commandName": "Project"
+    }
+  }
+}
